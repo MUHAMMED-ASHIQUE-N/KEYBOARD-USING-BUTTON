@@ -1,0 +1,76 @@
+
+.keyboard-body{
+    width: 945px;
+    height: 345px;
+   margin: 160px  200px;   
+   background-color: #c0c1c3; 
+   border-radius: 10px;
+   
+}
+.row{
+    width: 100%;
+   height: 50px;
+}
+.one,.two,.three,.four,.five,.six{
+margin: 10px 0 0 0;
+
+}
+button{
+    color: black;
+    margin: 5px 0px 0px 5px;
+    height: 50px;
+    width: 55px;
+    background-color: #f3f4f8;
+    text-align: left;
+    border: none;
+    border-radius: 10px;
+    box-shadow:3px 3px 5px #949191;
+
+}
+button:active{
+    box-shadow: 3px 3px 7px #413c3c;
+}
+
+.tab{
+    width: 87px;
+}
+
+.cap{
+   width: 108px;
+}
+.enter{
+    width: 113px;
+   
+}
+.shift{
+    
+    width: 142px;
+}
+.slash{
+    width: 70px;
+}
+.ctrl{
+    width: 60px;
+}
+.space{
+    width: 288px;
+}
+.one button{
+    width: 50px;
+    height: 30px;
+}
+.one{
+    height: 30px;
+}
+.back{
+    width: 102px;
+  
+}
+button:hover{
+   background-color: rgb(217, 217, 217);
+}
+img{
+    height: 15px;
+    width: 15px;
+}
+
